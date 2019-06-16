@@ -1,8 +1,10 @@
 
 # 说明
 
-- 本项目完全基于 [wxappUnpacker](https://github.com/qwerty472123/wxappUnpacker "wxappUnpacker") 改进的。
-
+- 本项目完全基于 大神qwerty472123和lcroot 两个项目 [wxappUnpacker](https://github.com/qwerty472123/wxappUnpacker "wxappUnpacker") 改进的。
+- 修改了项目中的若干个bug
+- 尽管已经努力的修复程序中的bug，但因为反编译结构设计上的不合理导致部分bug无法修复。
+- 对于插件的解析支持仍然很欠缺
 
 # 分包功能
 
